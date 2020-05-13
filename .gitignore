@@ -1,0 +1,10 @@
+# use glob syntax.
+syntax: glob
+*.pyc
+*~
+.ropeproject
+\#*\#
+.\#*
+*.orig
+
+.DS_Store
